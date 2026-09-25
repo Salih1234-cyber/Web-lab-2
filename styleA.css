@@ -18,3 +18,10 @@ html, body {
     box-sizing: border-box;
     border-top: 1px solid #666b78;
 }
+
+.box-a { background-color: #dfe1e7; }
+.box-b { background-color: #eeeff2; }
+.box-c { background-color: #dfe1e7; }
+.box-d { background-color: #eeeff2; }
+.box-e { background-color: #dfe1e7; }
+
