@@ -7,3 +7,14 @@ html, body {
     justify-content: space-between;
 }
 
+.box {
+    width: 100px;
+    height: 100px;
+    font-family: Tahoma, sans-serif;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border-top: 1px solid #666b78;
+}
